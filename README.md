@@ -13,11 +13,6 @@
 - GitHub projects, open-source  
 - Tech careers & learning paths  
 
-🚀 Projects I'm proud of:
-- 🧠 [PDF Chatbot](https://github.com/dhhaarmik/PDF-Chatbot) — Ask questions about any PDF!
-- 💼 [Job Management System](#) — Manage jobs, candidates, and recruiters
-- 🎮 2D Racing Game (Coming Soon...)
-
 📫 How to reach me:  
 [LinkedIn](https://www.linkedin.com/in/dharmik-gondaliya-385a1b252/) | dharmik2114@gmail.com  
 
