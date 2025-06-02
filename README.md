@@ -26,7 +26,4 @@
 🧰 Tech Stack:
 `Python` `JavaScript` `HTML/CSS` `Streamlit` `LangChain` `FAISS` `MySQL`
 
-📊 GitHub Stats:
-![Dharmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhhaarmik&show_icons=true&theme=radical)
 
----
