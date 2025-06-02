@@ -11,7 +11,14 @@
 💬 Ask me about:  
 - Python, Streamlit, PDF chatbots  
 - GitHub projects, open-source  
-- Tech careers & learning paths  
+- Tech careers & learning paths
+
+## GitHub Stats & Trophies
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhhaarmik&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhhaarmik&theme=radical)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhhaarmik&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 📫 How to reach me:  
 [LinkedIn](https://www.linkedin.com/in/dharmik-gondaliya-385a1b252/) | dharmik2114@gmail.com  
